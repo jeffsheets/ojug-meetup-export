@@ -1,0 +1,536 @@
+{
+    "data": {
+      "groupByUrlname": {
+        "description": "Omaha's Java User Group [@omahajug](https://twitter.com/omahajug/). For Developer Professionals of all languages and frameworks -- traditionally those that run in the JVM including Java, Kotlin, Groovy, Micronaut, Grails, Scala, Android, Javascript, etc. More and more we also cover enterprise and web dev (👋 Typescript, React, Vue, etc) topics such as architecture, testing, security, devops, cloud (AWS, GCP, Azure), and more! Promoting the Omaha Dev community, supporting each other, sharing some pizza, and hanging out to socialize after the meetings! \nTwitter: [@omahajug](https://twitter.com/omahajug/)\nYoutube: [https://www.youtube.com/c/OmahaJavaUsersGroup-OJUG](https://www.youtube.com/c/OmahaJavaUsersGroup-OJUG)\nSite: [http://ojug.org/](http://ojug.org/)\nPlease join our Google Groups mailing list too! [https://groups.google.com/forum/#!forum/omaha-java-users-group](https://groups.google.com/forum/#!forum/omaha-java-users-group)\nProud member of [Tech Omaha](https://techomaha.com/)\n\n**Sponsors**\nThank you to [Object Partners](https://objectpartners.com/) (now [Improving](https://improving.com/)) for sponsoring our Meetup.com fees, meeting space, food, and drinks!\n\nIf your group would like to sponsor OJUG, please reach out for opportunities!",
+        "pastEvents": {
+          "count": 65,
+          "pageInfo": {
+            "endCursor": "Mjg2OTEwNDU0OjE2NTgyNjYyMDAwMDA=",
+            "hasNextPage": false
+          },
+          "edges": [
+            {
+              "node": {
+                "title": "Angular JS for Java Developers",
+                "description": "This month Joen Moreno from Bass and Associates will be talking to us about being a Java developer doing Angular JS development. It will include an introduction to Angular and a discussion about approaching Angular from the perspective of a Java developer.\n\nShould be a great talk. See you there.\n\nLocation:\nBlue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8:00 Omaha Java Beer Drinking at DJ’s Dugout Aksraben location\n\nDoor prize(s) provided by Bass & Associates.",
+                "dateTime": "2014-05-20T17:30-05:00",
+                "going": 27
+              }
+            },
+            {
+              "node": {
+                "title": "Ryan Hochstetler presents Byteman!",
+                "description": "We will meet in BCBS's great conference room.\nLocation:\nBlue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8:00 Omaha Java Beer Drinking at DJ’s Dugout (near Aksarben)",
+                "dateTime": "2014-06-17T17:30-05:00",
+                "going": 27
+              }
+            },
+            {
+              "node": {
+                "title": "Groovy after all these years",
+                "description": "In 2005, a team at Mutual of Omaha selected Groovy for building a mission critical group insurance pricing engine. At the time, this was one of the largest commercial uses of Groovy. Jim McGill, an architect at Mutual of Omaha, will discuss with Scott Hickey, the technical lead on the project, why Groovy was selected, what the concerns were at the time and how Groovy has been instrumental in the continued success of this project.\n\nIn this Q&A style session, we’ll dive into areas such as maintenance, language stability, tooling, testing, staffing and expanding Groovy’s reach at Mutual of Omaha beyond this project.\n\nLocation:\nBlue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8:00 Omaha Java Beer Drinking at DJ’s Dugout (near Aksarben)",
+                "dateTime": "2014-07-15T17:30-05:00",
+                "going": 47
+              }
+            },
+            {
+              "node": {
+                "title": "Katas will make us better",
+                "description": "Jessica Codr (https://twitter.com/JCake09) and John Davis (https://twitter.com/yatz3000) will lead a discussion of katas and lead us through (at least) two katas.\n\nKatas are hands on exercises that serve as a great way to get more familiar with programming languages, IDEs, and processes like TDD. They are all about refining our skills as developers through deliberate practice (http://en.wikipedia.org/wiki/Practice_(learning_method)). Attendees are encouraged to bring their own laptops and follow along with the kata exercise. If you don't have a laptop, we will do our best to provide one for you or pair you up with someone else who has a laptop. We will be doing 2-3 katas, including the \"prime factors kata\" to demonstrate the great power of TDD and a kata using Mockito.\n\nJessica and John will be leading the katas in Eclipse, so participants should have Eclipse already installed on their laptops.\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8:00 Omaha Java Beer Drinking at DJ’s Dugout (near Aksarben)\n\nPlease RSVP!\n\nAlso, in the FREE STUFF breaking news department, JetBrains has signed up to be an additional sponsor, and is giving us 1-2 free IntelliJ IDEA licenses to raffle away EVERY MONTH (2 if we have over 50 attendees)!\n\nSo stick around for the drawing at the end of the meeting before we head to DJ's!",
+                "dateTime": "2014-08-19T17:30-05:00",
+                "going": 44
+              }
+            },
+            {
+              "node": {
+                "title": "Buzzworthy Java with Spring Boot and JHipster",
+                "description": "Learn about Spring Boot, a new opinionated convention-over-configuration RESTful framework that makes your life easier.\n\n• Get up and running in minutes\n\n• Writing web apps without or with a WAR?!?!\n\n• Deploy without or with an app server?!?!\n\nYes is the answer!\n\n\"Spring Boot makes it easy to create Spring-powered, production-grade applications and services with absolute minimum fuss. It takes an opinionated view of the Spring platform so that new and existing users can quickly get to the bits they need.\n\nYou can use Spring Boot to create stand-alone Java applications that can be started using java -jar or more traditional WAR deployments.\" -- https://github.com/spring-projects/spring-boot\n\nThen take it to the next level with JHipster, a buzz-worthy opinionated full stack generator that pulls together AngularJS + Spring Boot with many tools:\n\n• build (Gradle + Grunt)\n\n• front end (Twitter Bootstrap, Thymeleaf, WebSockets)\n\n• back end (Spring-Loaded hot reload, monitoring metrics, Hazelcast, HikariCP)\n\n\"JHipster is a Yeoman generator, used to create a Maven + Spring + AngularJS project, with full hot reload of Java and JavaScript code.\" -- http://jhipster.github.io/\n\nSpeaker: Jeff Sheets is a Principal Consultant with Object Partners working on Grails and Java projects.\n\nLocation:\n\nBlue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8:00 Omaha Java Beer Drinking at DJ’s Dugout (near Aksarben)\n\nPlease RSVP here at MeetUp.com\n\nAlso, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1-2 free IntelliJ IDEA licenses to raffle away EVERY MONTH (2 if we have over 50 attendees)!\n\nSo stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2014-10-21T18:00-05:00",
+                "going": 43
+              }
+            },
+            {
+              "node": {
+                "title": "Beyond C# vs Java",
+                "description": "Beyond C# vs Java\n\nDo you live in the Java world, but wonder what's going on in Bizarro .Net World (http://en.wikipedia.org/wiki/Bizarro_World)\n\nCurious what a day in the life of a .Net developer looks like?\n\nThis month we are honored to have two presenters from the Des Moines Central Iowa Java Users Group, on November 18th at Blue Cross Blue Shield!\n\nNate Buwalda (http://twitter.com/scotchnate) will shed some light on Microsoft's latest offerings.\n\nCurious what a day in the life of a Java developer looks like? Dan Mullins (http://twitter.com/dmullins) will give you his take on Java development.\n\nBeyond C# vs Java (https://www.youtube.com/watch?v=YRfbenxk-Ic), we'll compare and contrast the supporting cast:Up-front InvestmentIDEBuild Tools/Dependency ManagementLanguage ItselfPreferred Web FrameworkTesting Framework (Functional/Unit)Appserver/Deployment MechanismIf you're a .Net developer thinking about Java, or a Java developer thinking about .Net, you'll find something interesting in this meeting.\n\nInvite your .NET friends along for our November presentation!\n\nSpeakers: Dan Mullins @dmullins and Nate Buwalda @scotchnate from Des Moines\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n\n6:00 Food – Courtesy of TekSystems\n\n6:30 Presentation\n\n8:00 Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP here at MeetUp.com\n\nAlso, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1-2 free IntelliJ IDEA licenses to raffle away EVERY MONTH (2 if we have over 50 attendees)! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2014-11-18T18:00-06:00",
+                "going": 51
+              }
+            },
+            {
+              "node": {
+                "title": "Lightning Talks and CodEnvy.com",
+                "description": "1/20/2015 let's have a two part meeting:\n\nPart One: Local Lightning talks from Seth Lachner (jClouds), Matt Payne (SonarQube etc).\n\nPart Two: Remote via WebEx/GotoMeeting/Google-hangout\n\nTyler Jewel from CodEnvy.com writes:\n\nTitle: Contribute to Any Project in Seconds with a Cloud IDE\n\nThe Java community is filled with terrific solutions for enabling development of apps. Every Java developer has their choice of tools and the openness of the platform makes it accessible to anyone and extensible by everyone.But why then, is 99% of all development still done locally? While sales, marketing, customer service, support, finance, and infrastructure has steadily moved to the cloud over the past decade, Java development remains rooted on the desktop. Will it always be this way?\n\nCoder utopia: where environments are instantly accessible from any computer; where any number of private machines with root access can be provisioned at will; and developers build, test and debug with infinite, non-thrashing resources.\n\nIn this session we will introduce Codenvy, a no-blocking, no thrashing cloud IDE combined with automation that provisions developer workspace replicas that are simply shareable and secure to manage.\n\nSession Length: 45 Mins\n\nSession Agenda\n\n1) Why Cloud Development\n\n2) Types of Cloud IDEs\n\n3) Demo of Codenvy\n\n** Remote workspace & project configuration\n\n** CLI & Browser access\n\n** Temporary, on-demand environments\n\n** Shared development: editor, syntax analysis, collaborative coding\n\n** Cloud build, dependency management, unit test (maven / ant / groovy)\n\n** Cloud debug (runner, multi-process container, shell access)\n\n** Project persistence (storage, image mgmt, privacy)\n\n** Project creation (resource management, cloud bindings)\n\n** Datasource management (cloud vs. local resources)\n\n** Analytics (user dashboard, derived metrics, session tracking)\n\n** Cloning (creating re-usable environments, embeddable, customizable)\n\n** Plug-ins (extending browser and server-side cloud functionality)\n\n** APIs (accounts, workspaces, projects, runners, builders, etc.)\n\n** Offline and On-Premises Access (running proprietary clouds)\n\ni) Lift, grails, wicket, tapestry, GWT, JSF, Thymelaf, xtream, Vaadin, Shale, velocity, Play, Struts\n\nii) JBoss, GlassFish, WebSphere, Oracle WebLogic, Jetty, Resin, Tomcat, Virgo, Geronimo, TomEE\n\niii) JRuby, Groovy, Maximize, Kotlin, Jython, Scala, Ceylon, Clojure, Rhino.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n\n6:00 Food – Courtesy of TekSystems\n\n6:15 - 6:30pm -- Matt talks about SonarQube and maybe the LocalOmaha.org project\n\n6:30 - 6:45pm -- Seth on jClouds\n\n6:45 - 7:30pm -- CodEnvy.com\n\n8:00 Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com\n\nAlso, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1-2 free IntelliJ IDEA licenses to raffle away EVERY MONTH (2 if we have over 50 attendees)! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2015-01-20T18:00-06:00",
+                "going": 44
+              }
+            },
+            {
+              "node": {
+                "title": "Java Security and AngularJS",
+                "description": "Apache Shiro is an excellent java security framework. Shiro security can be used when your java application is providing an API to a single page angularJS app. Joen Moreno from Bass and Associates (Harbinger Partners) show us how to use Shiro to secure an angularJS single page web app. You'll remember Joen from his record setting May 2014 AngularJS for Java Developers presentation. He's a great speaker!\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking 6:00 Food – Courtesy of TekSystems 6:30 Presentation 8:00 Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com\nAlso, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1-2 free IntelliJ IDEA licenses to raffle away EVERY MONTH (2 if we have over 50 attendees)! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2015-02-17T18:00-06:00",
+                "going": 58
+              }
+            },
+            {
+              "node": {
+                "title": "Programming Reactive presented by Dr. Venkat Subramaniam",
+                "description": "Dr. Venkat Subramaniam, award-winning author and founder of Agile Developer, inc., will be presenting at Aureus / C&A Industries on March 2nd!\n\nFor those that have already registered through Meetup, please re-register. Seating is limited, and Aureus would like to use their own system to keep track of attendees. Sorry for the confusion & trouble.\n\nGood news! Happy hour afterwards at Fox & Hound sponsored by Object Partners\n\nTo register for the event, click this link http://bit.ly/1As7xv3 .\n\nFor more information read below:\n\nProgramming Reactive\n\nBig data, smart phones, tablets, wearable devices, multicore processors,…—we're seeing rapid and drastic evolution in both the computing environments and the application needs. Thankfully, a number of technologies have been evolving over the past several years to meet these demands. The reactive manifesto is an attempt to reenforce a set of technical practices needed to meet the emerging demands.\n\nIf you've heard and read about reactive programming, but are eager to realize that in code, then this presentation is for you. We will start with a rapid introduction and get into code to learn about reactive programming, not in theory but with practical examples.\n\nAbout the speaker:\nDr. Venkat Subramaniam is an award-winning author, founder of Agile Developer, Inc., and an instructional professor at the University of Houston.\n\nHe has trained and mentored thousands of software developers in the US, Canada, Europe, and Asia, and is a regularly-invited speaker at several international conferences. Venkat helps his clients effectively apply and succeed with agile practices on their software projects.\n\nVenkat is a (co)author of multiple books, including the 2007 Jolt Productivity award winning book Practices of an Agile Developer. His latest book is Functional Programming in Java: Harnessing the Power of Java 8 Lambda Expressions. You can reach him by email at venkats@agiledeveloper.com or on twitter at @venkat_s.\n\nAgenda:\n5:30 - 6:30 for food/social Location will be at C&A Industries\n6:30-8:00PM Presentation and Q/A\n8:30 Fox and Hound Happy Hour sponsored by Object Partners !\n\nPlease note this is a special OJUG.org meeting located at C&A Industries",
+                "dateTime": "2015-03-02T18:00-06:00",
+                "going": 48
+              }
+            },
+            {
+              "node": {
+                "title": "Groovy kata",
+                "description": "At this meeting, we’ll work through a solution to the Bank OCR kata, http://codingdojo.org/cgi-bin/index.pl/index.pl?KataBankOCR, using Groovy and functional programming techniques. As we work through this programming kata using Groovy, we’ll use pure functions that are small and easy to test. The code will use recursion plus Groovy methods that support functional programming such as take, drop, first, tail, find, findAll, collect, collectMany, and transpose.\n\nSpeaker: Scott Hickey is Chief Technologist (Object Partners, Inc.) at Mutual of Omaha. He is a wonderful speaker and very nice guy.\n\nLocation:\n\nBlue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8:00 Omaha Java Beer Drinking at DJ’s Dugout (near Aksarben)\n\nPlease RSVP here on http://www.meetup.com/omahajava/events/221047887/\n\nAlso, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1-2 free IntelliJ IDEA licenses to raffle away EVERY MONTH (2 if we have over 50 attendees)!\n\nSo stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2015-03-17T18:00-05:00",
+                "going": 36
+              }
+            },
+            {
+              "node": {
+                "title": "Android Development from Start to Finish",
+                "description": "Android Development from Start to Finish by Mark Corrado (https://twitter.com/MarkCorrado). This will go through the development of an Android App. This talk will be good for any level of experience with Android.\n\nThe meetup starts at 6 and we will spend the first half hour so having some drinks and getting to know each other before we get right in on the content. All are welcome please join us for what will surely be an exciting discussion.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1-2 free IntelliJ IDEA licenses to raffle away EVERY MONTH (2 if we have over 50 attendees)! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2015-04-21T18:00-05:00",
+                "going": 100
+              }
+            },
+            {
+              "node": {
+                "title": "Omaha Developer and Tech Party!",
+                "description": "The spring-time Omaha Developer and Tech Party has been scheduled! For this special event please RSVP on the EventBrite site. https://www.eventbrite.com/e/developer-and-tech-happy-hour-tickets-16400687899\n\nThis is a special community event that everyone is invited too. The Omaha Mobile Meetup, NebraskaJS, Beer and Code Omaha, Omaha Java Users Group, Open Nebraska, Omaha Ruby, and the Omaha .Net User's Group have joined forces to throw a Developer & Tech Happy Hour on on Wednesday, May 6th, from 5pm - 9pm at Local Beer and Patio.\n\nThis event is open to all. Thanks to our generous sponsors, we'll have snacks and an open tab for happy hour, available on a first come, first serve basis. Once our funds run out, you'll be on your own for drinks. If you'd like to attend, please RSVP on EventBrite\n\nhttps://www.eventbrite.com/e/developer-and-tech-happy-hour-tickets-16400687899",
+                "dateTime": "2015-05-06T17:00-05:00",
+                "going": 29
+              }
+            },
+            {
+              "node": {
+                "title": "Lightning Talk All The (JVM) Things",
+                "description": "We have a great set of speakers joining us to present some Lightning Talks for our May meeting! All JVM related topics and all covering different areas of the Java ecosystem! I'm very excited to announce these speakers:\n\n• Scott Hickey - Building a CI pipeline using Gradle, Gradle-Jenkins plugin and Jenkins Groovy DSL plugin\n\n• Ken Ross - Google diff-patch\n\n• Jody Sharpe - Oracle JSR 371 (Ozark), CABOOSE (WebScript Pattern), and JAVA Community Process (JCP) Recruiting\n\n• Jessica Codr - Gatling load testing http://gatling.io/\n\nThe meetup starts at 6 and we will spend the first half hour having some pizza/soda and getting to know each other before we get right in on the content. All are welcome please join us for what will surely be an exciting discussion.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8:00-ish JetBrains IntelliJ License Raffle\nplus Drinks and more at DJ’s Dugout (Aksarben) - Courtesy of Agape Red\n\nPlease RSVP at MeetUp.com",
+                "dateTime": "2015-05-19T18:00-05:00",
+                "going": 39
+              }
+            },
+            {
+              "node": {
+                "title": "“A Brief History of Java” – an irreverent look at Java through the ages",
+                "description": "Tuesday June 16, 2015: “A Brief History of Java” – an irreverent look at Java through the ages.\n\nAnd also a Lightning Talk on Heroku!\n\n“A Brief History of Java” – an irreverent look at Java through the ages.\n\nThis somewhat tongue-in-cheek look at the development of developing with Java from 1.0 beta in late 1994 through today examines the popular tools and technique of the language and how they have evolved over the last 2 decades, from a guy who has been with Java since the beginning.\n\nBio:\n\nKent Smotherman (@TwinFeats) taught his first lecture class for computer programming in 1980 at Kansas State University, at the age of 19. Since then, he has learned and programmed in over 2 dozen programming languages, including Fortran (that very first class), LISP, various assembly languages, C++, and Java, on platforms ranging from IBM Mainframes down to Android devices. Java is his favorite, however. “Java brings the power of programming to almost any platform on the planet, and the significance of that to the academic world of computer science as well as the practical world of Information Technology cannot be understated.” Kent has worked for most of Omaha’s biggest companies like Mutual of Omaha, First Data, and CSG. In his roles at these companies, he has traveled all over the country and the world as a specialist in programming, technology, and systems software debugging. But what really excites him is the web. “The explosion of the world wide web is an historic epoch in modern civilization. Not just in what everyone can do with it, but the fact that web development itself is so accessible. Combine that with the flexibility offered by Java, and you have an environment where the sky is the limit.”\n\nKent has taught web development technologies for government agencies such as the Florida Department of Education and Strategic Air Command, as well as free programs for kids that just wanted to learn how to make a web site. “It doesn’t matter what you know now, it only matters what you are capable of learning. And with the right attitude, a little hard work, and a good instructor – anyone can learn web development.”\n\nKent currently works during the day as the mild-mannered senior web application architect at NCR, and superhero Java web instructor at night for Interface Web School.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n\n6:15 Lighting talk! Heroku by Naomi See (@colorful_n0mi)\n\n6:30 Presentation\n\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA licenses to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2015-06-16T18:00-05:00",
+                "going": 43
+              }
+            },
+            {
+              "node": {
+                "title": "Java and Performance",
+                "description": "Topic: Java and Performance - Biggest Mistakes\n\nHave you ever wondered why your e-Banking system is down yet again for maintenance or what problem it was that caused your check-out to take forever until it terminated with a weird error message?\n\nMisconfigured O/R Mappers causing millions of SQL Queries and \"leaking\" DB connection leaks, excessive logging that consumes all Disk I/O, memory leaks that bring the JVM to crash every couple of hours or a forgotten XML configuration entry that causes millions of \"Control-Flow Exceptions\" that never make it to any log file. These are some of the problems that crashed large enterprise applications in the last 12 years (some even made it to national & international news). In this session we learn how to avoid these top problems by automatically looking at key performance and architectural metrics along your continuous deployment pipeline.\n\nSPEAKER: Asad Ali\n\nAsad Ali is an application performance enthusiast who has over 15 years of experience in Object oriented programming, Java, scripting languages and databases. For the last 7 years he has been working with enterprise clients with key focus on application performance. During his spare time, Asad likes to pursue his passion for photography.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n\n6:30 Presentation\n\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA licenses to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2015-07-21T18:00-05:00",
+                "going": 75
+              }
+            },
+            {
+              "node": {
+                "title": "the Java Spark framework",
+                "description": "Java Spark (http://sparkjava.com/): Ruby developers get some of the coolest toys. They have these fun little frameworks that just do stuff in the most annoying way. Sinatra is one of those frameworks. Luckily for us Per Wendel decided that Java devs should get in on the fun, and so now we have the Java Spark framework (http://sparkjava.com/), because Ruby shouldn't get all the cool toys.\n\nBio: Seth Lachner (https://twitter.com/Slestac) is very cool. He's is a long time member of OJUG.org. His talks are always wonderful.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA licenses to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2015-08-18T18:00-05:00",
+                "going": 42
+              }
+            },
+            {
+              "node": {
+                "title": "IntelliJ vs Eclipse Showdown",
+                "description": "Think of your classic rivalries:\n\n• Sega versus Nintendo\n\n• Hulk Hogan versus Andre the Giant\n\n• PC versus Mac\n\n• Tabs versus Spaces\n\nThe most contentious of all: Eclipse or IntelliJ? We’ll be settling this score, once and for all!\n\nJoin us this month for an Epic IDE Showdown – we have champions on each side (David Zemon for IntelliJ, Paul Heaberlin for Eclipse) ready to showcase their editor’s features, trash talk their opponent, and definitively prove which 200 megabyte zip you should be downloading the next morning.\n\nBios:\n\nDavid Zemon is an technology evangelist raised by two computer engineering graduates. His free time is entirely consumed by programming the Parallax Propeller microcontroller (with JetBrains CLion).\n\nPaul Heaberlin has been working with Java as a backend dev for over a decade and still enjoys it! He’s presented at OJUG a few times, and if given the chance will likely talk your ear off on any topic he knows about (and probably a few he doesn’t).\n\nLocation: Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nAlso, in the FREE STUFF department, JetBrains is giving us a free IntelliJ IDEA license to raffle away! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2015-09-15T18:00-05:00",
+                "going": 50
+              }
+            },
+            {
+              "node": {
+                "title": "Swagger!",
+                "description": "Top-down or bottom-up, I will be discussing the Swagger (http://swagger.io/) API definition language and tooling starting at a high level and then focusing on the features that are significant and beneficial for Java developers.\n\nhttp://photos3.meetupstatic.com/photos/event/6/d/0/2/600_443067906.jpeg\n\nBio: Seth Lachner (https://twitter.com/Slestac) is very cool. He's is a long time member of OJUG.org. His talks are always wonderful.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA licenses to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2015-10-20T18:00-05:00",
+                "going": 67
+              }
+            },
+            {
+              "node": {
+                "title": "Microservices and the great migration",
+                "description": "The Great Migration\n\nMicro-services have been getting a lot of attention in the past year, but is it really a viable solution or just a passing fad?\n\nIn this presentation we'll look deep into Bintray.com (http://bintray.com/)'s service architecture and talk about how and why we found ourselves naturally migrating from a central web application to a flock of micro-services.\n\nOf course maybe a groovy puzzle or two if we have time :-)\n\nBio: Baruch Sadogursky (a.k.a @JBaruch (https://twitter.com/JBaruch)) is the Developer Advocate of JFrog, the creators of Artifactory Binary Repository, the home of Bintray\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA licenses to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2015-11-17T18:00-06:00",
+                "going": 96
+              }
+            },
+            {
+              "node": {
+                "title": "Developer and Tech Holiday Party (RSVP on Eventbrite)",
+                "description": "RSVPing for this event on Meetup is a no-op. Please register on Eventbrite!!! http://www.eventbrite.com/e/2015-developer-and-tech-holiday-party-tickets-19274844579\n\nThe holidays are upon us again and provides us a great excuse to get together as community. The Omaha Mobile Meetup, NebraskaJS, Beer and Code Omaha, Omaha Java Users Group, Open Nebraska, Omaha Ruby, Omaha .Net User's Group, Omaha Android Developers Group, and Nebraska Drupalers have joined forces to throw a Developer & Tech Holiday Party on Wednesday December 2nd, from 5pm to 9pm at the Beercade in Benson. This event is open to all of the great Developers and Technologist around our community. Come on out and share knowledge, stories, and drinks with the entire community. Meet new people, catch up with all freinds, and see how great our tech community can be working together.\n\nThanks to our generous sponsors, we'll have snacks and an open tab for happy hour, available on a first come, first serve basis. Once our funds run out, you'll be on your own for drinks. If you'd like to attend, please RSVP so we have an estimate of how many people will be coming, but please join us even if you don't get a chance to RSVP.\n\nWe're still actively seeking sponsors for this community event. If you or your company is interested in sponsoring, please contact Kevin Berry ( kberry (at) AdviseDesign.com ) or any of the organizers of the supporting groups. Developer & Tech Happy Hour events are grassroots initiatives organized by tech leaders in Omaha to support our need to make connections within the tech community. We would greatly appreciate your support, and we will openly recognize your efforts in supporting this initiative. In return for your support, you'll get your logo on the event site, you can hand out great swag at our event, and we'll make announcements during the event to thank you and our other great sponsors so that the tech community knows who loves and supports them.",
+                "dateTime": "2015-12-02T17:00-06:00",
+                "going": 6
+              }
+            },
+            {
+              "node": {
+                "title": "Java 8!",
+                "description": "Dive into the new Lambda Expressions in Java 8, including method references, the new functional interfaces provided by the JDK, the Stream & CompletionStage APIs, and possibly a few other new features like default methods in interfaces and the compiler's improved type inference.\n\nBio: Brad Bottjen (https://www.linkedin.com/in/bradbottjen) is very cool. He's is a long time member of OJUG.org. His talks are always wonderful.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben) or some TBD nearby place\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA license to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2015-12-15T18:00-06:00",
+                "going": 74
+              }
+            },
+            {
+              "node": {
+                "title": "DropWizard",
+                "description": "DropWizard\n\nThis talk will cover the basics of DropWizard. The goal is to describe what it is, what it does, and some of it's capabilities. We'll go through a working example of a DropWizard Service. Finally, I'd like to share with you how we are using it and how we got into it.\n\nMichael Kolakowski:\n\nMichael has been a software developer in and out of the Omaha area for the past 8 years. He currently works for McCallie and Associates at Northrop Grumman in Bellevue. His interests include Linux, Java + Groovy, Vim, and community involvement.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com (http://www.meetup.com/omahajava/events/227228046/) Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA license to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2016-02-16T18:00-06:00",
+                "going": 65
+              }
+            },
+            {
+              "node": {
+                "title": "OJUG.org meeting is cancel because of unexpected event.",
+                "description": "OJUG.org meeting 3/15/16 is cancelled because of unexpected event.\n\nFrom ratpack.io (http://ratpack.io/)\n\nRatpack is a set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. It is built on the highly performant and efficient Netty event-driven networking engine.\n\nRatpack is purely a runtime. There is no installable package and no coupled build tooling (e.g. Rails, Play, Grails). To build Ratpack applications, you can use any JVM build tool. The Ratpack project provides specific support for Gradle (http://www.gradle.org/) through plugins, but any could be used.\n\nRatpack is published as a set of library JARs. The ratpack-core library is the only strictly required library. Others such asratpack-groovy, ratpack-guice, ratpack-jackson, ratpack-test etc. are optional.\n\nThis talk is constructed to describe the conciseness of ratpack applications while discussing how this solution breaks away from servlet based solutions. It will be a tutorial that will allow the audience to play with functioning aspects of the different ways you may want to configure your ratpack applications.\n\nBio\n\nJuan Vazquez is currently a Senior Technical Solution Architect at Mutual of Omaha Insurance Co. He enjoys programming for the JVM via Groovy and Clojure. When not spending time with family, you can find him here:\n\nblog: http://javazquez.com/juan/\n\ntwitter: https://twitter.com/javazquez\n\ngithub: https://github.com/javazquez\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com (http://www.meetup.com/omahajava/events/227228046/) Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA license to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2016-03-15T19:00-05:00",
+                "going": 33
+              }
+            },
+            {
+              "node": {
+                "title": "Ratpack.io",
+                "description": "From ratpack.io (http://ratpack.io/)\n\nRatpack is a set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. It is built on the highly performant and efficient Netty event-driven networking engine.\n\nRatpack is purely a runtime. There is no installable package and no coupled build tooling (e.g. Rails, Play, Grails). To build Ratpack applications, you can use any JVM build tool. The Ratpack project provides specific support for Gradle (http://www.gradle.org/) through plugins, but any could be used.\n\nRatpack is published as a set of library JARs. The ratpack-core library is the only strictly required library. Others such asratpack-groovy, ratpack-guice, ratpack-jackson, ratpack-test etc. are optional.\n\nThis talk is constructed to describe the conciseness of ratpack applications while discussing how this solution breaks away from servlet based solutions. It will be a tutorial that will allow the audience to play with functioning aspects of the different ways you may want to configure your ratpack applications.\n\nBio\n\nJuan Vazquez is currently a Senior Technical Solution Architect at Mutual of Omaha Insurance Co. He enjoys programming for the JVM via Groovy and Clojure. When not spending time with family, you can find him here:\n\nblog: http://javazquez.com/juan/\n\ntwitter: https://twitter.com/javazquez\n\ngithub: https://github.com/javazquez\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com (http://www.meetup.com/omahajava/events/227228046/) Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA license to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2016-04-19T17:30-05:00",
+                "going": 45
+              }
+            },
+            {
+              "node": {
+                "title": "SOLID Code",
+                "description": "\"Is your code SOLID? How do you know if your code is SOLID? One way to solidify your code is by following the SOLID design principles (https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)) and other principles of good design. At this meetup, Jessica Codr will lead us through these principles by showing examples of code that could be improved and getting your feedback on how to improve that code. Along the way, we will identify SOLID and other principles that we can apply to our everyday coding lives.\n\nAfter we've seen these examples we will, as time allows, work together on refactoring a code base to better adhere to principles of good design, with the end goal of making the code more maintainable and extendable.\n\nThis will be an interactive session, so come willing to share your thoughts as we all learn and grow together!\"\n\nBio: Jessica Codr (https://twitter.com/JCake09) is very cool. She is a long time member of OJUG.org (and one of the organizers). Her talks are always wonderful.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA licenses to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2016-05-17T17:30-05:00",
+                "going": 52
+              }
+            },
+            {
+              "node": {
+                "title": "Intro To Groovy",
+                "description": "Intro To Groovy\n\nWe’ll run through a whirl-wind tour of the Groovy (http://www.groovy-lang.org/) language, pointing out a few things that differentiate Groovy from Java. Syntax and code style will be covered and we’ll introduce closures and Traits. There are real labs that we can cover to get you more familiar with the basic concepts!\n\nBio\n\nNick Larson (https://www.linkedin.com/in/nicklaslarson) is a Chief Software Technologist for Object Partners. He has over 14 years of experience with JVM and web based applications, with a strong development background with Groovy / Grails, Spring, and ReactJS.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA license to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2016-06-21T17:30-05:00",
+                "going": 57
+              }
+            },
+            {
+              "node": {
+                "title": "Grails!",
+                "description": "Grails!\n\nMike Hostetler will be reprising his NebraskaCode.com talk on grails. http://slides.hostetlerhome.com/grails-slides\n\nBio: Mike Hostetler (https://twitter.com/mikehoss42) is very cool. His talks are always wonderful.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA licenses to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2016-07-19T18:00-05:00",
+                "going": 36
+              }
+            },
+            {
+              "node": {
+                "title": "Advent (in August!) Of Code",
+                "description": "Can you feel it in the air? It's time to break out a nerdy Advent Calendar! Never mind the sweltering temperatures (or the actual calendar day), we'll be solving winter-themed programming challenges!\n\nBring your laptop and work on programming puzzles from Advent Of Code: http://adventofcode.com/\n\nSolve problems in Java, or your favorite JVM programming language. Jessica Codr (https://mobile.twitter.com/jcake09) will then lead a discussion where we compare and contrast different approaches.\n\nNo laptop? New to Java? No worries, we encourage pair programming!\n\nLocation: Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Coding\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at Meetup.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA licenses to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2016-08-16T18:00-05:00",
+                "going": 39
+              }
+            },
+            {
+              "node": {
+                "title": "Mirror -- Demo & architecture discussion/code walk-through",
+                "description": "Presentation:\n\nThe presentation will be a short demo and then architecture discussion/code walk-through of mirror (https://github.com/stephenh/mirror), a two-way/real-time version of rsync.\n\nMirror (https://github.com/stephenh/mirror) is built on top of grpc (http://www.grpc.io/), which is Google's new RPC-over-Protobuf project, so we'll also briefly cover how that works, what the proto files look like, etc.\n\nSpeaker:\n\nStephen Haberman (http://www.draconianoverlord.com/) is very cool. His talks are always wonderful.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA licenses to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2016-09-20T18:00-05:00",
+                "going": 40
+              }
+            },
+            {
+              "node": {
+                "title": "BONUS POPUP MEETING: Hazelcast and Horizontal Scaling",
+                "description": "Presentation\nI’m sure you’ve heard the term “horizontal scaling”. What does it mean and why there’s so much buzz about it?\n\nThis session will try to explain it as well as identify the biggest challenges that are awaiting us in the world of data processing and its scalability. On the example of Hazelcast and its most popular features we will try to tackle the above-mentioned challenges right away.\n\nWe will also have a closer look at the data structures offered by Hazelcast, their programming models and learn how to properly use them in our daily work in order to scale our apps out!\n\nSpeaker\nTom Bujok has promised to not give a marketecture talk. He knows that OJUG likes talks that people can put to use without buying things.\n\nTom is a Software Engineer @ Hazelcast. For the last couple of years Tom has been working on numerous assignments fulfilling a range of roles, particularly dealing with design and development of small to large scale systems, mostly on the JVM. Tom is an enthusiastic open source contributor and the founder of a couple of open-source projects (babun, p2-maven-plugin, soap-ws). Finally, he is very keen on tutoring, presenting and live coding, especially in a non-fluffy way.\n\nLocation\nBlue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda\n5:30 Networking\n6:00 Food - Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)",
+                "dateTime": "2016-09-27T18:00-05:00",
+                "going": 28
+              }
+            },
+            {
+              "node": {
+                "title": "Shouldyou.be & Kotlin",
+                "description": "Two presentations for the price of one! Note: the price is zero.\n\nPresentation 1: Shouldyou.be (https://shouldyou.be/)\n\nA mashup for neurotic residents of Omaha, Nebraska, as seen through twitter and a bunch of geographic APIs and regular expressions.\n\nLive demo at https://shouldyou.be (https://shouldyou.be/), and source on github (https://github.com/tmcoma/shouldyou.be)\n\nhttps://raw.githubusercontent.com/tmcoma/shouldyou.be/master/docs/images/00-screenshot.png\n\nDemonstrates usage of the following APIs, platforms, etc:\n\nJava 1.7, Google App Engine, Google Cloud Endpoints, Google Cloud Datastore (w/Objectify), Google Maps Javascript API, Google Maps Geocoding API, Twitter Streaming API, Twitter UI Widget Thingie, OAuth2\n\nAnd, somewhat less interestingly:\n\nJUnit, Maven, Regular expressions that will make you want to self-immolate, Google Service API Keys, Nifty Javascript animations, Web Storage\n\nSpeaker:\n\nTom McLaughlin (https://github.com/tmcoma) is giving his first ever OJUG talk. It'll rock!\n\nPresentation 2: Kotlin (https://kotlinlang.org/) - Why your next language will be Kotlin!\n\nKotlin is not just YALFTJVM (yet another language for the JVM). There's good reason that Kotlin is the next JVM language that you will learn and use. Fan of Groovy, or Scala, or into writing build scripts, or writing Android code? Learn from this talk the in's & out's, pros and cons, and reasons why Kotlin is worth looking into.\n\nSpeaker:\n\nJeff Sheets (https://twitter.com/sheetsj) is very cool. His talks are always wonderful.\n\nLocation:Blue Cross and Blue Shield of Nebraska, 1919 Aksarben Dr, Omaha, NE 68180\n\nAgenda:\n\n5:30 Networking\n6:00 Food – Courtesy of TekSystems\n6:30 Presentation\n8-ish Drinks and more at DJ’s Dugout (Aksarben)\n\nPlease RSVP at MeetUp.com Also, in the FREE STUFF department, JetBrains has signed up to be an additional sponsor, and is giving us 1 free IntelliJ IDEA licenses to raffle away EVERY MONTH! So stick around for the drawing at the end of the meeting before we head to DJ’s!",
+                "dateTime": "2016-10-18T18:00-05:00",
+                "going": 43
+              }
+            },
+            {
+              "node": {
+                "title": "Mutual of Omaha's Custom Jenkins Pipeline DSL for Gradle",
+                "description": "A Principal Enterprise Architect with Mutual of Omaha, Scott Hickey has been developing software for over 30 years. He has been working with Java since 1998 and Groovy since 2005. He was the lead developer for the Groovy Eclipse Plugin and as well as a president of the Omaha Java User Group.\n\nMutual of Omaha's Custom Jenkins Pipeline DSL for Gradle\n\nDuring this presentation, we’ll review how Mutual of Omaha created a custom DSL for defining our Jenkins build pipelines. The DSL builds on the Gradle Jenkins Plugin and the Jenkins Job DSL plugin, extending the functionality of both to encapsulate company conventions for Gradle builds.\n\nWe'll review how the Groovy Builder pattern makes it easy to define a custom DSL that captures corporate conventions for our Jenkins builds while still exposing the DSL provided by the Jenkins Job DSL plugin to allow for easy job customization. We'll close the session by discussing what it’s been like to roll this out to the development teams at Mutual of Omaha over the last year.",
+                "dateTime": "2017-01-17T18:00-06:00",
+                "going": 44
+              }
+            },
+            {
+              "node": {
+                "title": "Elegant Builds at Scale",
+                "description": "Elegant Builds at Scale\n\nHow can medium and large projects use Gradle to scale their build infrastructure? This session looks at organizations such as Netflix and LinkedIn and how they scale with Gradle across hundreds or thousands of developers. It discusses how to solve the challenges of standardization, fast incremental builds, dependency management, distributed caching, continuous builds, build metrics and working with multiple repositories at the same time.\n\nSpeaker Bio\n\nHans Dockter is the founder and project lead of the Gradle build system and the CEO of Gradle Inc. a company that provides training, support and consulting for Gradle and all forms of enterprise software project automation in general. Hans is a thought leader in the field of project automation and has successfully been in charge of numerous large-scale enterprise builds. He is also an advocate of Domain Driven Design, having taught classes and delivered presentations on this topic together with Eric Evans. In the earlier days, Hans was also a committer for the JBoss project and founded the JBoss-IDE.",
+                "dateTime": "2017-02-21T18:00-06:00",
+                "going": 55
+              }
+            },
+            {
+              "node": {
+                "title": "Lets talk about Microservices",
+                "description": "6:00pm - Networking and Food\n6:30pm- presentation\n\nMicroservices and DevOps Live\n\nMany Microservices presentations talk about the benefits and design patterns of Microservices through diagrams, bullet point concepts, and discussion.\n\nIn this presentation we will take the next step and demonstrate an actual Microservices application implementation, with a live display of a durable, stable, and flexible Microservices platform automated with DevOps tooling.\n\nKeyhole Software is currently lending support to enterprise companies across the country on Microservices in both Java and .Net technology stacks.\n\nThe following features will be demonstrated:\nScaling a Service\nContinuous Deployment of a Service (adding new features, fixing bugs)\nContainerizing a Service With Docker\nMonitoring Circuit Breakers Under Load With Hystrix Dashboard\nHandling Open Circuits\nLog Aggregation\nContainer/Service Orchestration\nOn-Demand Resource Allocation\nRouting and Orchestration\n\nTechnology Stack Demonstrated\n\nThe reference Microservices application is implemented using a single-page application (Angular SPA) UI, Spring Boot ( http://pivotal.io/ ), and Netflix OSS frameworks.\n\nThe DevOps SDLC environment will utilize Docker, Maven, Git, and Jenkins. They will be configured to provide a continuous delivery mechanism to a cloud-based infrastructure. Other infrastructure options such as cloud or on-premise cloud environments will also be discussed.\n\nPresenter Bio\n\nJaime Niswonger is a Principal Consultant with Keyhole Software and brings 20 years of IT experience to the podium. He has been consulting nearly his entire career, which has allowed him to be exposed to a wide spectrum of technologies, processes, and problem spaces. He has spent considerable time mentoring and training enterprise IT developers around the globe. He has pursued finding the 'sweet-spots' within the plethora of libraries and frameworks available, and hopes to help ease that transition a bit for you when it comes to Microservices and DevOps.",
+                "dateTime": "2017-03-21T18:00-05:00",
+                "going": 86
+              }
+            },
+            {
+              "node": {
+                "title": "OJUG and Spring Users Group Co-hosting Josh Long Spring 5 talk",
+                "description": "March Madness is here with an extra special meetup. In addition to our regulary schedule March 21st meeting. OJUG is working with the Spring Users Group to co-host a Spring 5 talk from Josh Long!\nLink to Spring Users Group https://www.meetup.com/Omaha-Spring-Users-Group/events/237247066/\n\nDetails below.\n\nSpring 5 is almost here! One of the most exciting introductions in this release is support for reactive programming, building on the Pivotal Reactor project to support message-driven, elastic, resilient and responsive services. Spring 5 integrates an MVC-like component model adapted to support reactive processing and a new type of web endpoint, functional reactive endpoints. In this talk, we'll look at the net-new Netty-based web runtime, how existing Servlet code can run on the new world, and how to integrate it with existing Spring-stack technologies.",
+                "dateTime": "2017-03-28T18:00-05:00",
+                "going": 91
+              }
+            },
+            {
+              "node": {
+                "title": "Let's talk about serverless apps",
+                "description": "• 6pm - food and Networking\n\n• 6:30pm - presentation\n\nDan Holmes has been a Java developer and architect in Omaha for over 15 years. He has experience directing teams of developers, solutions architects, and agile practitioners in several large companies in town. Most recently, Dan has been leading efforts to design and implement enterprise projects based on microservice architecture principles.\n\nAgenda:\n\n1) What is \"Serverless Architecture\"?\n\n2) Set up an example serverless REST API on AWS using API Gateway and Lambda\n\n3) Demonstrate the \"Serverless Framework\" ( https://serverless.com/ ), an open-source framework designed to automate deployment of serverless apps\n\n4) Bonus example, time permitting: Use the Serverless Framework and AWS Developer Portal to create a new Alexa skill.",
+                "dateTime": "2017-04-18T18:00-05:00",
+                "going": 62
+              }
+            },
+            {
+              "node": {
+                "title": "Tech Omaha 2017 Spring Party",
+                "description": "You must RSVP here: https://techomaha.splashthat.com/ (required)\n\nOriginal post at: http://techomaha.com/party/\n\nSpring is here and summer is upon us again. This can only mean one thing – the fourth annual spring Tech Omaha Happy Hour! Let’s get together, build community, and make some new friends. The Omaha Mobile Meetup (http://www.meetup.com/Omaha-Mobile-Group), NebraskaJS (http://nebraskajs.com/), Beer and Code Omaha (http://www.beerandcode.org/), Omaha Java Users Group (http://ojug.org/), Omaha Ruby, Omaha .Net User’s Group (http://www.omahamtg.com/), Omaha Android Developers Group (http://www.meetup.com/Omaha-Android-Developers/), Nebraska Drupalers (http://www.meetup.com/drupal-nebraska/), Agile for Defense (https://www.meetup.com/Agile-for-Defense/), Nebraska Virtual Reality Meetup (https://www.meetup.com/Omaha-Virtual-Reality-Meetup) and the rest of the great Omaha tech meet ups (http://techomaha.com/list-omaha-user-groups/) have joined forces with Tech Omaha to throw a Happy Hour during Omaha Startup Week (https://omaha.startupweek.co/) on Wednesday May 3rd, from 5pm to 9pm at the Slowdown in north downtown. This event is open to all of the great Developers and Technologists around our community. Meet new people, catch up with old friends, and see how great our tech community can be working together. We are happy to be part of Omaha Start Up Week this year. Check out some of the other great events happening around town. (https://omaha.startupweek.co/)\n\nThanks to our generous sponsors, we will have food, some great door prizes to give away, and an open tab for happy hour, available on a first come, first serve basis. Once our funds run out, you’ll be on your own for drinks. Due to venue capacity registration is limited, and an RSVP via SplashThat is required (https://techomaha.splashthat.com/).",
+                "dateTime": "2017-05-03T17:00-05:00",
+                "going": 6
+              }
+            },
+            {
+              "node": {
+                "title": "JUnit 5  with Mike Plummer",
+                "description": "6:00pm - Networking and Food\n\n6:30pm- presentation\n\nMike Plummer will be presenting JUnit5\n\n*Up your testing game with JUnit 5* The latest in the venerable JUnit suite, version five fixes many of the annoyances while modernizing and opening up the platform. This version improves JUnit testing to use the newest Java features like Lambdas, expands the ability to control and monitor the test lifecycle, and introduces new constructs to support Behavior Driven Development (BDD). We'll talk about how to use all of these features as well as how to get them up-and-running alongside your existing test suite.",
+                "dateTime": "2017-05-16T18:00-05:00",
+                "going": 40
+              }
+            },
+            {
+              "node": {
+                "title": "Test Often and Prosper",
+                "description": "6-6:30 networking\n6:30 presentation\n\nDerek Eskens\nSenior Consultant, Object In this presentation you'll be introduced to the Spock testing & mocking framework. We'll see how writing tests in Spock compares to JUnit and why it will save you time; which will make you enjoy writing tests; which will make you a better programmer; which will make you more money.\n\nIf you're a Java developer, you'll also be introduced to Groovy. Using Groovy in testing code is a great introduction to the language and a foot in the door to getting it accepted as a language standard within your company.\n\nIf you haven't been using JDK 8, the functional concepts and collection comprehensions in Groovy will change your life.",
+                "dateTime": "2017-06-20T18:00-05:00",
+                "going": 45
+              }
+            },
+            {
+              "node": {
+                "title": "Interns Run On Java",
+                "description": "6-6:30pm networking\n6:30 presentation\n\nJava is the programming language that Omaha software development interns are expected to have in their tool belts. We’ll cover one returning student’s 18-month journey through the JVM, from “hello world” to building a microservice in Spring.\n\nAdditional topics include: what is and isn’t taught in school, intern and junior developer expectations, plunging into an ever-evolving industry, and maintaining blooming developer’s imagination and drive.\n\nBio\nErik Shafer is student majoring in computer science with a concentration in internet technologies at the University of Nebraska Omaha. He typed his first “public static void main” in 2004 but only truly began coding in 2016. He currently interns at Union Pacific in addition to tutoring and grading for the computer science department at UNO.",
+                "dateTime": "2017-07-18T18:00-05:00",
+                "going": 33
+              }
+            },
+            {
+              "node": {
+                "title": "Talk about Java and Bioinformatics",
+                "description": "• 6-6:30pm networking\n\n• 6:30 presentation\n\nEmily Bradley will be giving a presentation on Bioinformatics and Java",
+                "dateTime": "2017-08-15T18:00-05:00",
+                "going": 26
+              }
+            },
+            {
+              "node": {
+                "title": "Clojure and functional programming",
+                "description": "6-6:30pm networking\n\n6:30 presentation\n\nClojure is a modern Lisp that runs on the Java Virtual Machine as well as in the Browser via the provided javascript engine. It breaks from Object Oriented programming and treats immutable data a core feature of the language. As we move into a world with multiple core processors, Immutability helps with concurrent computing. This talk will be an intro into functional programming concepts along with an intro to the Clojure language.\n\nSpeaker\n\nJuan Vazquez",
+                "dateTime": "2017-09-19T18:00-05:00",
+                "going": 32
+              }
+            },
+            {
+              "node": {
+                "title": "TypeScript",
+                "description": "• 6-6:30pm networking\n\n• 6:30 presentation\n\nTypeScript for Java Developers\n\nStep out from the comfort of the JVM and learn about TypeScript: the statically typed, transpiles-to-JavaScript language from Microsoft!\n\nSpeaker: Matt Steele",
+                "dateTime": "2017-10-24T18:00-05:00",
+                "going": 41
+              }
+            },
+            {
+              "node": {
+                "title": "Advent of code lightning talk",
+                "description": "Lightning talks on advent of code solutions",
+                "dateTime": "2018-01-16T18:00-06:00",
+                "going": 46
+              }
+            },
+            {
+              "node": {
+                "title": "Datomic: Rethinking the Database",
+                "description": "6-6:30pm Networking and Food\n\n6:30 Presentation\n\nPresentor: Joe R. Smith\n\n• Software Engineer @ Cognitect\n\n• Clojure, Datomic\n\n• We solve *hard* problems\n\n• Decomplect thingsPolyglot,\n\n• “Full Stack”\n\n• Systems’ Architecture / Tech Advisor\n\n• Functional Programming advocate/enthusiast",
+                "dateTime": "2018-02-20T18:00-06:00",
+                "going": 55
+              }
+            },
+            {
+              "node": {
+                "title": "Scala",
+                "description": "6-6:30 networking and food\n6:30 presentation\n\nJoel Becker will presenting what Graph Theory has to say about our code:\n\n* How GT explains the well-known OO principles such as SOLID\n* More principles surfaced by the GT application\n* Why GT says we should be doing more Functional Programming\n* Scala examples and explanations",
+                "dateTime": "2018-03-20T18:00-05:00",
+                "going": 37
+              }
+            },
+            {
+              "node": {
+                "title": "Docker & Kubernetes presentation",
+                "description": "• What we'll do\n6-6:30 food and networking\n6:30 - presentation\n\nRyan Hochstetler will present on docker.\n\nBring your laptops and code along! We will provision a virtual server in Google and do some basic Docker. Then we'll create a cluster with Google Kubernetes Engine and go over Kubernetes basics. No local laptop setup required. Cloud Platform fees covered at no cost to you during the presentation.\n\nIt's helpful, but not required to email ryan.hochstetler@gmail.com with your Google account name before the presentation so that he can authorize you on a Google Cloud Platform project. If you don't pre-register, there may not be enough clusters provisioned for everyone.",
+                "dateTime": "2018-04-17T18:00-05:00",
+                "going": 61
+              }
+            },
+            {
+              "node": {
+                "title": "Automating your life away(and end-to-end tests)with Selenide and Katalon Studio!",
+                "description": "6-6:30 Networking and food\n6:30 presentation\n\nSpeaker: JJ Loneman\nGraduated UNO with a Computer Science degree in December and is currently working at TD Ameritrade and will be working as a software developer for JP Morgan Chase in New York in July. He enjoys Java full-stack things and is eager to explore more of the front-end world.",
+                "dateTime": "2018-05-15T18:00-05:00",
+                "going": 25
+              }
+            },
+            {
+              "node": {
+                "title": "Micronaut FrameWork",
+                "description": "5:30-6pm networking and food\n6pm presentation\n\nIn this talk, Jeff Brown will demonstrate how the future of Grails, GORM, and Micronaut are linked, as well as how the OCI Groovy and Grails team is taking productivity around developing microservices to the next level!\n\nMicronaut is a new JVM-based, full-stack framework for building modular, easily testable microservice applications. Unlike reflection-based IoC frameworks, which load and cache reflection data for every single field, method, and constructor in your code, with Micronaut, your application startup time and memory consumption are not bound to the size of your codebase.\n\nThe Micronaut framework shares many core values with Grails, including the enablement of code simplicity and developer productivity. Micronaut offers many additional features for a new class of applications (e.g., microservices, serverless deployments, etc.) that may not be well-suited for Grails.\n\nCompelling aspects of the Micronaut framework include:\n* Sub-second startup time\n* Tiny processes that may run in as little as 8mb of heap\n* No runtime reflection\n* Dependency injection\n* Load balancing\n* And more!\n\nBIO:\nJeff Scott Brown is the co-founder of the Grails and Micronaut frameworks, leads the Grails and Micronaut practices at OCI (objectcomputing.com), and is also Partner at OCI. He has been doing JVM application development for as long as the JVM has existed. He has spent most of the last decade focused specifically on work related to the Grails framework, is a key contributor to the frameworks’ core development, and recently co-founded the Micronaut framework.\n\nYou can find Jeff on Twitter @jeffscottbrown (https://twitter.com/jeffscottbrown).",
+                "dateTime": "2018-06-19T18:00-05:00",
+                "going": 51
+              }
+            },
+            {
+              "node": {
+                "title": "\"So, who's gonna tell 'em?\" the talk about 'the talk' that nobody talks about.",
+                "description": "6-6:30 networking and food\n6:30 presentation\n\nThe growing emphasis on \"Individuals and Interactions\" yields tremendous rewards, but not without risk. Teams who work together increasingly find themselves in situations where they NEED to have sensitive and high risk conversations, but don't always know how to approach those discussions.\n\nEveryone knows about some of the biggest challenges that face a team. They are also aware of the many ways the corrective conversation that can go awry.\n\nThese conversations are often indefinitely delayed. Opportunities for growth are missed and resentment grows.\n\nAttend this session to learn how to be the agent of change your team needs with techniques and practices to help you master crucial conversations.\n\nDustin Thostenson is an independent consultant, leading Delta3Consulting. He has been a developer, mentor, trainer and agile coach for almost 2 decades. His passion lies in helping people grow and teams deliver. To keep it interesting he helps lead the Iowa .NET User Group and volunteers in Central Iowa. To keep it real he spends time with his wife and 4 kids. To keep it random he tweets @dustinson",
+                "dateTime": "2018-07-17T18:00-05:00",
+                "going": 17
+              }
+            },
+            {
+              "node": {
+                "title": "Spring OAuth2 for the Enterprise",
+                "description": "6-6:30 networking and food\n6:30 presentation\n\nThe Spring Boot support for OAuth2 seems simple when you look at online examples, but what do you do when your Identity Provider is not Google or Facebook? Take a look past ‘Hello World: OAuth2 edition’ with an overview of how to implement an OAuth2 and JWT-based Authorization Server in an enterprise environment.\n\nOAuth 2.0 is an open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords (Wikipedia). This talk will include a high-level overview of the protocol, Spring Boot support for OAuth2, and how it is being used at Mutual of Omaha, including some code examples.\n\nJeff Quandt has over 15 years of experience developing enterprise systems in a variety of business sectors. Currently, he is a solution architect at Mutual of Omaha supporting a multi-year program to replace a legacy mainframe with event-driven Spring Boot microservices.",
+                "dateTime": "2018-08-21T18:00-05:00",
+                "going": 39
+              }
+            },
+            {
+              "node": {
+                "title": "Lightning Talk Meet-Up Extravaganza with WITH",
+                "description": "A special joint meetup with Women in Technology of the Heartland! If you've already sent an RSVP via the WITH meetup, there's no need to respond here.\n\nUser Group Lightning Talks Presented by:\nTechOmaha\nOmaha SQL User Group\nNebraska JS\nOmaha Maker Group\nGoogle Developer Group\nOmaha Agile User Group\n.Net User Group\nLearn Swift Omaha\nWITH\nOJUG\nSee you there!",
+                "dateTime": "2018-09-18T18:00-05:00",
+                "going": 21
+              }
+            },
+            {
+              "node": {
+                "title": "Liquibase with Nick Wertzberger (Last 2018 Meetup!)",
+                "description": "Don't miss the last OJUG meetup of 2018!\n\nPizza and Networking: 6:00 - 6:30\nPresentation: 6:30 - 8:00\nJetBrains IntelliJ giveaway\n\nTopic:\nLiquibase (http://liquibase.org) is an open-source tool for tracking and applying database schema changes as code. Changes can be made in development, deployed to test, and then deployed to production in a clean, repeatable manner. This talk will give you an overview of Liquibase, its extensible syntax, its internals, and some techniques for integrating it in your development cycle.\n\nReal Liquibase User Testimonials:\n\"It's great! Now I have more time to work on my sweet dance moves.\" -- Production DBA at an Omaha Fortune 500 company\n\n\"I haven't heard any more complaining about database rollouts since we implemented it.\" -- Software Development Manager at same Fortune 500 company\n\nAbout the speaker:\nNick Wertzberger is currently leading an effort to automate aspects of working with relational databases inside of Union Pacific, including initial provisioning and ongoing changes to application schemas. He has previously led efforts for automation of application platform provisioning and centralization of logs at Union Pacific. His hobbies include experimenting with machine learning algorithms, and writing EDM.",
+                "dateTime": "2018-10-16T18:00-05:00",
+                "going": 38
+              }
+            },
+            {
+              "node": {
+                "title": "Lightning Talks to Kick Off 2019!",
+                "description": "Pizza and Networking: 6:00 - 6:30\nPresentation: 6:30 - 8:00\nJetBrains IntelliJ giveaway\n\nJoin the Omaha JVM User Group for a round of lightning talks to kick off 2019 right!\n\nRoster of topics\n- TLS/SSL in a nutshell\n- Intro to Enterprise Integration Patterns and Spring Integration\n- Rewriting a Java app to Groovy\n- AWS SDK 2.0 for Java and performance implications",
+                "dateTime": "2019-01-15T18:00-06:00",
+                "going": 45
+              }
+            },
+            {
+              "node": {
+                "title": "Co-meeting with WITH! Software Test Automation",
+                "description": "Venue and Time change this month!\n\nRSVP here instead: https://www.meetup.com/witheartland/events/259509370/\n\nTest automation lies at the heart of Agile software development. Having automated tests often improves code quality, increases confidence that code works as anticipated, and also ensures that end users quickly receive a product that suits their needs. At the March meetup, we will be diving into the basics of UI test automation and discussing some of the benefits of writing test cases for enterprise applications. Our speaker for the evening is Lauren Koperski. Lauren is an Application Developer at Mutual of Omaha and has worked to create an automated UI test suite for an internal application, which due in part to its technical state, has become one of the primary candidates for use in experimentation with newer technologies. Mutual of Omaha is our sponsor for the evening, providing food and beverage, beginning at 5:15pm. Lauren Koperski will begin her automated testing talk at 6pm and then we will open it up for discussion and questions at 6:45pm.",
+                "dateTime": "2019-03-19T17:15-05:00",
+                "going": 1
+              }
+            },
+            {
+              "node": {
+                "title": "Google Cloud AI with Java",
+                "description": "Pizza and Networking: 6:00 - 6:30\nPresentation: 6:30 - 8:00\nJetBrains IntelliJ giveaway\n\nGoogle's AI offerings include Image, Video, and Text Classification, NLP, Text-to-Speech-to-Text, and Translation. Come see how easy it is to get started with some of these AI tools via the official Java Client APIs.\n\nWe will also cover some of the AI and ML announcements from Google Cloud Next 2019.",
+                "dateTime": "2019-04-16T18:00-05:00",
+                "going": 24
+              }
+            },
+            {
+              "node": {
+                "title": "Co-meet with WITH: A Personal Journey Into Software Engineering",
+                "description": "Time Changes!\n5:15 - Networking & Pizza\n5:45 - Presentation\n\nPlease join us as we hear about Abby Jones' personal journey from teaching in the classroom to becoming a software engineer and how the skills she learned in the classroom translated into her new role. Abby taught special education for over a decade and then joined Mutual of Omaha in 2016 as a member of the Solution Architecture division's Mentoring Practice. She helped create their Front End Developers Community of Practice and was a member of the Talent Strategy Steering Committee. Most recently, Abby has been working with teams building software on the Amazon Web Services platform. Outside of work, her favorite activity is jamming out on guitar and hand percussion with her two-year-old niece.\n\nWiTH will be combining this meeting with our local OJUG group. TEK Systems is our sponsor and will provide us with pizza, pop and water. Our host for the event is Blue Cross Blue Shield, 1919 Aksarben Dr.\n\nNetworking will begin at 5:15, with Abby hitting the stage around 5:45. We'll be sure to leave plenty of time for Q&A at the end.",
+                "dateTime": "2019-05-21T17:15-05:00",
+                "going": 28
+              }
+            },
+            {
+              "node": {
+                "title": "Let’s Talk About Mental Health",
+                "description": "Pizza and Networking: 6:00 - 6:30\nPresentation: 6:30 - 8:00\nJetBrains IntelliJ giveaway\n\nIt’s a great time to be in technology. Computers keep getting better. More and more devices keep getting connected to the internet. Javascript frameworks are multiplying like bacteria. And yet despite the improvement in our tools, we somehow don’t spend time talking about how to maintain our most important tool - the one between our ears.\n\nConstantly feeling worn down, experiencing anxiety over making decisions, and burning out are not just facts of a developer’s life! They’re challenges that can be dealt with. In this talk we’ll cover the most common mental health challenges facing developers, and then learn about some techniques to supercharge your brain by improving your mental hygiene (whether you have a psychological disorder or not). Most importantly, you’ll learn how to have a conversation with your coworkers (and other people in your life) about supporting each other and finding your best selves.\n\nArthur (or Art, take your pick) has been a software engineer for 14 years and has worked on things as exciting as analysis software for casinos and things as boring as banking websites. He is an advocate for talking openly about mental health and psychology in the technical world, and he spends a lot of time thinking about how we program and why we program, and about the tools, structures, cultures, and mental processes that help and hinder us from our ultimate goal of writing amazing things. His hair is brown and his thorax is a shiny blue color.",
+                "dateTime": "2019-06-18T18:00-05:00",
+                "going": 17
+              }
+            },
+            {
+              "node": {
+                "title": "Meet BDD, Your new BFF -- with Edward Snodgrass",
+                "description": "Pizza and Networking: 6:00 - 6:30\nPresentation: 6:30 - 8:00\nJetBrains IntelliJ giveaway\n\nAre you looking to increase the understanding between your product development team and your business folks? Want your documentation to be easy to read AND useful? Then meet BDD - Behavior Driven Development.\n\nEd is a Software Developer at Proxibid. He is active in the Cucumber world and has shared his expertise at multiple conferences, workshops & trainings, including multiple BDD Kickstart trainings put on by Cucumber Ltd.",
+                "dateTime": "2019-07-16T18:00-05:00",
+                "going": 19
+              }
+            },
+            {
+              "node": {
+                "title": "The State of Mobile Apps: Native vs Hybrid",
+                "description": "Pizza and Networking: 6:00 - 6:30\nPresentation: 6:30 - 8:00\nJetBrains IntelliJ giveaway\n\nDetails\nDavid Corrado is a Mobile Software Engineer at FanDuel and will be speaking about the state of mobile apps, native versus hybrid.\n\nPresentation Overview:\n\"State of Mobile Apps: Native vs Hybrid\" \"All companies want to save money by sharing a code base between iOS and Android apps. We will weigh the pros and cons of doing hybrid with different frameworks. I will be giving my opinion from the point of view from a native developer who works with startups and enterprise applications. There will be extra focus on the hybrid frameworks that I think are the best fit for startups and for enterprise applications\"\n\nAbout David:\n\nDavid started mobile development in 2011 and worked for CRi, BuilderTREND, Travel and Transport, Werner and FanDuel. He freelances for a startup with over 1 million downloads and has personal projects . He is a meetup organizer of the Google Developer Group Omaha and Learn Swift Omaha.",
+                "dateTime": "2019-09-17T18:00-05:00",
+                "going": 14
+              }
+            },
+            {
+              "node": {
+                "title": "Hack your brain - improve yourself and your work",
+                "description": "Pizza and Networking: 6:00 - 6:30\nPresentation: 6:30 - 8:00\nJetBrains IntelliJ giveaway\n\nDetails\nYour job isn’t 100% code, so improving skills like how you learn, how to focus, and coping mechanisms need to be worked on just like learning a new framework. Everyone has struggles, whether it is accepting criticism, managing stress, or finding time for passion projects. But those don’t have to hold us back! We'll learn 4 techniques to help with these exact issues. Even if you never go to “soft skills” talks, these techniques can help you grow, improve and maybe stick with a new habit for once.\n\nAbout the Speaker:\nChristine is from Omaha, Nebraska where she works as a full stack Ruby on Rails engineer at Flywheel, Delightful Wordpress Hosting for Creatives. She has 12 years experience as a Java engineer with a focus on APIs, testing, and micro-services (before they were cool). Then to change it up, she took the plunge into Ruby in 2018. In her spare time she is an avid reader, huge Rush fan and is attempting to work through the primary Ashtanga yoga series.",
+                "dateTime": "2019-10-15T18:00-05:00",
+                "going": 17
+              }
+            },
+            {
+              "node": {
+                "title": "COVID-19 means no meetings for a while",
+                "description": "Stay safe!",
+                "dateTime": "2020-03-19T19:00-05:00",
+                "going": 3
+              }
+            },
+            {
+              "node": {
+                "title": "Bootiful GraalVM with DaShaun Carter",
+                "description": "Please join us! As we reboot OJUG to bring it out of pandemic hibernation! And double bonus, for this first meeting we're joining forces with the [Spring User Group](https://www.meetup.com/Omaha-Spring-Users-Group/events/285385201/)! We'll have on-site (w/ Pizza and Drinks!) and virtual viewing options (link sent to RSVP'd attendees prior to the event)\n\nPizza and Networking: 5:30 - 6:00\nPresentation: 6:00 - 7:00\nPost-talk drinks and conversation too!\n\nLOCATION NOTE: We will be meeting in the Object Partners office at 72nd & Poppleton\n\nWe will be re-launching **both** meetup groups in person and will be hearing from DaShaun Carter about Spring Native and GraalVM!\n\n**Title:** Bootiful GraalVM with DaShaun Carter (Spring Developer Advocate at VMware Tanzu)\n\n**Abstract:**\nHi, Spring fans! Spring Framework 6 and Spring Boot 3 imply a new baseline, bringing the Spring ecosystem in line with the needs of tomorrow's workloads. A huge part of that is the new baselines of Jakarta EE and Java 17 and the new support for GraalVM native images, based on the work of Spring Native. Join Spring Developer Advocate DaShaun Carter and we'll explore the implications of this exciting new technology for your Spring Boot applications and services.\n\nWe'll look at things like using the GraalVM AOT compiler to produce native images that take up a markedly smaller memory footprint and start up in 10s or maybe hundreds of milliseconds. We'll look at how to containerize those workloads. We'll look at how to tame the GraalVM compiler when something goes wrong. And we'll look at how to teach GraalVM about your custom workloads.\n\nMicrosoft Teams livestream link:\n[https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2MwYmQxMzEtM2I5Ni00YjI3LTllZTgtZDFjMTQxNzEwODZm%40thread.v2/0?context=%7b%22Tid%22%3a%22f2267c2e-5a54-49f4-84fa-e4f2f4038a2e%22%2c%22Oid%22%3a%2298437c58-698a-45f7-99bc-137b152ef08c%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a](https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2MwYmQxMzEtM2I5Ni00YjI3LTllZTgtZDFjMTQxNzEwODZm%40thread.v2/0?context=%7b%22Tid%22%3a%22f2267c2e-5a54-49f4-84fa-e4f2f4038a2e%22%2c%22Oid%22%3a%2298437c58-698a-45f7-99bc-137b152ef08c%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)\n\nAlso the recording will be available on our Youtube channel in the next few days at: [https://www.youtube.com/c/OmahaJavaUsersGroup-OJUG](https://www.youtube.com/c/OmahaJavaUsersGroup-OJUG)",
+                "dateTime": "2022-05-17T17:30-05:00",
+                "going": 19
+              }
+            },
+            {
+              "node": {
+                "title": "Become a Java Black Belt with Code Katas!",
+                "description": "Jessica Codr and John Davis help you hone your software craft with the practice of code kata! Bring your own laptop to follow along, or watch and learn from the art of kata. You will experience:\n\n* How deliberate practice can improve your skills\n* Test Driven Development in action\n* Jessica & John being excited about testing & Java!",
+                "dateTime": "2022-06-23T17:30-05:00",
+                "going": 6
+              }
+            },
+            {
+              "node": {
+                "title": "The Art of Java Language Pattern Matching with Simon Ritter",
+                "description": "Please join us in-person (w/ taco bar and Drinks!) as Simon Ritter (@speakjava on twitter) visits us in-person -- traveling all the way from London! Simon is doing a Java Users Group tour of the US and we are excited to host him on Tuesday, July 19th here in Omaha!\n\n**Abstract:**\nThe goal of project Amber within OpenJDK is to explore the inclusion of smaller, productivity-oriented Java language features. One part of this that has delivered new functionality in recent versions is *pattern matching*.\n\nPattern matching combines application code logic to test if an expression has a specific type or structure and extract components of its state for processing.\n\nIn JDK 14, JEP 305 introduced pattern matching for instanceof, as a preview feature; in JDK 16, this was made a full feature through JEP 394. This simplifies the use of this operator by eliminating the need for an explicit cast and assignment. In JDK 17, JEP 406 added pattern matching for switch. It is now possible to include patterns in switch case labels.\n\nIn this session, we’ll look at the details of these two new language features and a more general look at pattern matching. We’ll also explore future features in this area, such as record patterns (scheduled for JDK 19) and array patterns, which may be included in a subsequent Java release.\n\nBy the end of the session, you’ll be ready to use these powerful new features.\n\n**Speaker:**\nSimon Ritter ([https://twitter.com/speakjava](https://twitter.com/speakjava)) is the Deputy CTO of Azul Systems. Simon joined Sun Microsystems in 1996 and spent time working in both Java development and consultancy. He has been presenting Java technologies to developers since 1999 focusing on the core Java platform as well as client and embedded applications.\n\nAt Azul, he continues to help people understand Java and Azul’s JVM products. He represents Azul on the JCP Executive Committee, the OpenJDK Vulnerability Group as well as the JSR Expert Groups for Java SE 9 and later.\n\n**Schedule:**\nQdoba Taco Bar and Networking: 5:30 - 6:00\nPresentation: 6:00 - 7:00\nJetbrains IntelliJ license raffle for in-person attendees after the talk!\nPost-talk drinks and conversation too!\n\n**Livestream Link:**\nThe livestream is available from this [Teams Meeting Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmQwNWZjNDQtOGRiYS00MjQ1LTgyZjAtMmE3ZGEzZTNjMjJk%40thread.v2/0?context=%7b%22Tid%22%3a%22f2267c2e-5a54-49f4-84fa-e4f2f4038a2e%22%2c%22Oid%22%3a%2298437c58-698a-45f7-99bc-137b152ef08c%22%2c%22IsBroadcastMeeting%22%3atrue%7d&btype=a&role=a)\n\nAfter the presentation, we'll upload the recording to our [OJUG Youtube Channel](https://www.youtube.com/c/OmahaJavaUsersGroup-OJUG)\n\nFollow us on twitter! [@omahajug](https://twitter.com/omahajug/)\n\n**Sponsors:**\nThank you to [Object Partners](https://objectpartners.com/) (now part of [Improving](https://improving.com/)) for sponsoring the room space, drinks, and Meetup.com site fees!\n\nThank you to [Azul Systems](https://www.azul.com/) for sponsoring our speaker's travel costs, and the Qdoba taco bar for the evening!\n\nThank you to [Jetbrains](https://www.jetbrains.com/idea/) for sponsoring by providing an IntelliJ License that we will raffle off to the in-person attendees!\n\nAdditionally, if your group is interested in sponsoring or speaking at OJUG, please reach out for opportunities!",
+                "dateTime": "2022-07-19T17:30-05:00",
+                "going": 26
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
