@@ -40,6 +40,6 @@ This generated the [meetup-events-export-2022-08-25.json](src/meetup-events-expo
 
 Not really an import, but a generator to create markdown files from the JSON, to be used in https://github.com/OJUG/ojug.github.io/tree/master/_posts
 
-[PostGenerator.groovy](src/PostGenerator.groovy) does the markdown generation
+* [PostGenerator.groovy](src/PostGenerator.groovy) does the markdown generation
 
-[PostGeneratorSpec.groovy](test/PostGeneratorSpec.groovy) has some tests, but also the generation kickoff (Ignored by default)
+* [PostGenerator Spec.groovy](test/PostGeneratorSpec.groovy) has some tests, but also the generation kickoff (Ignored by default)
