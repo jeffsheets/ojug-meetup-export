@@ -1,6 +1,8 @@
 import spock.lang.Ignore
 import spock.lang.Specification
 
+@Grab('org.spockframework:spock-core:2.3-groovy-4.0')
+@GrabExclude('org.codehaus.groovy:*')
 class PostGeneratorSpec extends Specification {
     def "makeFilename"(String title, String expected) {
         given:
