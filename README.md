@@ -43,3 +43,10 @@ Not really an import, but a generator to create markdown files from the JSON, to
 * [PostGenerator.groovy](src/PostGenerator.groovy) does the markdown generation
 
 * [PostGenerator Spec.groovy](test/PostGeneratorSpec.groovy) has some tests, but also the generation kickoff (Ignored by default)
+
+You can run this from the CLI via:
+
+```
+cd src
+groovy PostGeneratorSpec.groovy
+```
