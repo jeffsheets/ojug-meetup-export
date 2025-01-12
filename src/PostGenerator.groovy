@@ -5,7 +5,7 @@ import java.text.SimpleDateFormat
 
 class PostGenerator {
     static final DEST_FOLDER = 'output'
-    static final SRC_JSON = '/meetup-events-export-2024-01-31.json'
+    static final SRC_JSON = '/meetup-events-export-2025-01-11.json'
 
     String convertToYYYMMDD(String utcDate) {
         def inDate = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm")
